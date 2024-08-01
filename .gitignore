@@ -8,3 +8,7 @@ node_modules/
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
